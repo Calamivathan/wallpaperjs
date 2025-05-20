@@ -5,5 +5,5 @@ body {
   background-repeat: no-repeat;
 }
 canvas {
-  position : absolute;
+  position: absolute;
 }
